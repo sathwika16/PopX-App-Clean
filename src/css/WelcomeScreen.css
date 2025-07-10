@@ -1,0 +1,48 @@
+.welcome-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: end;
+  padding: 24px 24px;
+  height: 100%;
+}
+
+.welcome-title {
+  font-size: 28px;
+  font-weight: 700;
+  color: #333;
+  margin-bottom: 8px;
+}
+
+.welcome-subtitle {
+  font-size: 16px;
+  color: #888;
+  margin-bottom: 40px;
+}
+
+.create-account-btn {
+  background-color: #6c38ff;
+  color: white;
+  border: none;
+  border-radius: 6px;
+  padding: 16px;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 16px;
+  cursor: pointer;
+}
+
+.login-btn {
+  background-color: #d5c6ff;
+  color: #333;
+  border: none;
+  border-radius: 6px;
+  padding: 16px;
+  font-size: 16px;
+  font-weight: 500;
+  cursor: pointer;
+}
+
+.create-account-btn:hover,
+.login-btn:hover {
+  opacity: 0.9;
+}
