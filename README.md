@@ -42,7 +42,7 @@ This is a qualifier task for the position of **React JS Intern/Fresher**. The as
 
 ```bash
 # Clone the repo
-git clone https://github.com/Bhumesh2001/PopX-App
+git clone https://github.com/sathwika16/PopX-App
 
 # Navigate to the project directory
 cd popx-app
